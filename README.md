@@ -1,1 +1,1 @@
-# Olist-E-Commerce-Project
+# Olist-E-Commerce-SQL-Project
